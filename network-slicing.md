@@ -5,7 +5,7 @@ layout: default
 
 # What is Network Slicing?
 
-**Norwaves Academy | 5G Fundamentals | Concept 2**
+Norwaves Academy | 5G Fundamentals | Concept 2
 
 [Back to Home](index)
 
