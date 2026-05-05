@@ -5,7 +5,7 @@ layout: default
 
 # What is an NPN (Non-Public Network)?
 
-**Norwaves Academy | 5G Fundamentals | Concept 3**
+Norwaves Academy | 5G Fundamentals | Concept 3
 
 [Back to Home](index)
 
