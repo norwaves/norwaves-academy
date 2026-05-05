@@ -5,7 +5,7 @@ layout: default
 
 # What is a 5G SA (Standalone) Core?
 
-**Norwaves Academy | 5G Fundamentals | Concept 1**
+Norwaves Academy | 5G Fundamentals | Concept 1
 
 [Back to Home](index)
 
